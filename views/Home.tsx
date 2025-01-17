@@ -1,12 +1,8 @@
-import Login from '../components/Login'
-import Register from '../components/Register'
+import React from 'react'
 
 const Home = () => {
   return (
-    <>
-    <Login />
-    <Register />   
-    </>
+    <div>Home</div>
   )
 }
 
